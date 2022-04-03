@@ -1,0 +1,100 @@
+  :::: A New HOME ::::
+  ::::  V.1.0.4.  ::::
+ 
+
+Thank you for downloading this project.
+
+:List of common errors:
+
+If the font is ugly. Install MS Gothic true type font. The font file can be found at the very end of the maps.lmu 
+
+If you are getting a "The RPG Maker 2003 Runtime Package is not present or not registered." error.
+Visit this link. 'http://2drpg.com/d/Rm2k3_RPG.zip' and download and install the 2k3 package. 
+
+If you got a "division by 0" error. This is a rare bug that lies in a flaw in 2k3's coding. It happens 
+at random and simply restarting and crossing your fingers seems to be the only way to fix it. It's
+really rare though.
+
+If you get a "DERR_Unsupported Error" visit this link. 
+http://thejudge.tumblr.com/post/128973490424/thejudge-if-anyone-is-running-a-windows-8
+
+If you are stuck walking in a direction without actually pressing any of the keys, run the file named "kbdreset.exe."
+It resets your registery for the keyboard and unsticks your keyboard inputs. 
+
+Using "Auto" combat when fighting the snails in zone 3 can cause issues with their combat feature. If a snail fails to
+come out of its shell in any situation, simply run from combat.
+
+
+============= WARNING! =================
+If you are hearing impaired. Do not select hard mode puzzle, for it has musical and location hearing based puzzles. 
+If harsh language, slurs, acts of suicide and drug abuse disturb you please proceed into this game with hefty
+caution. If you are prone to seizures due to flashing images, be warned as many combat animations involve
+bright flashes of white. 
+========================================
+
+:list ends:
+
+This project was made by me (FelixTheJudge) 
+Follow me on Tumblr if you want constant updates. (url is Thejudge.tumblr.com)
+Also any screenshots and inquires about this game
+should be posted in the tag
+
+         #Home (Off Spinoff) 
+                  or 
+           #Home (Game)
+
+on Tumblr -> https://www.tumblr.com/tagged/home-%28game%29
+
+OR
+
+on RPGMaker.net -> http://rpgmaker.net/games/6361/
+
+
+
+Also make sure you've played the Original Off before playing this.
+This is a 100% fan made game. 
+Permission to use OFF and its resources granted by Mortis Ghost.
+Permission to use Alias Conrads music was granted as well. 
+
+Thanks for playing. :3
+
+Credits: 
+
+chimakiisane/blackfire: Monster Sprite Design/Plague Doctors, Overworld Sprite Design. Witness design. (http://chimakiisane.tumblr.com/)
+
+winsdayink: Lead Artist. (http://winsdayink.tumblr.com/)
+
+Sesakamonster: Lead Monster Design. (http://sesakamonster.tumblr.com/)
+
+AwkwardTB: Monster Sprite Design. (http://druggymcweed.tumblr.com/)
+
+a-controlled-substance: RollerCoaster Cutscene. (http://sesakamonster.tumblr.com/)
+
+Emee Art: Overworld Sprite Concept. 
+
+Askaussiefalconscout: Monster Sprite Design. Creator of the Batter Sprite. (Needsmorebirds.tumblr.com)
+
+xLightningWolFx: Music composer. (http://sampling-master-trashboat.tumblr.com/)
+
+Tigerman9001: Music Composer. (http://tigerman9001.tumblr.com/)
+
+Telefang: Music Composer. (http://eviefang.tumblr.com/)
+
+Zira361: Overworld Sprite Design. (http://zira361.tumblr.com/)
+
+P4zam: Monster Concept Design. Credit cutscene art. (http://p4zam.tumblr.com/)
+
+schizophobic: Music Composer. (Sadly they deleted :’c)
+
+Cliffjumparound: Typographical Error Corrector/ Testplayer. (http://garbagehazard.tumblr.com/)
+
+Cattibalistic: Testplayer. (http://cattibalistic.tumblr.com/)
+
+Jazzjackalope: Guide/Walkthrough Creator. (http://jazzjackalope.tumblr.com/)
+
+SmashyQ: Bug Tester/Searcher. Typographical Reporter. (http://smashyq.tumblr.com/)
+
+TheArtofScarecrows: Various cutscene art. Monster Concept Design. (http://theartofscarecrows.tumblr.com/)
+
+Thejudge: Lead Programmer, Lead Map Design, Lead Music Composer, Monster Concept Design, Battle Sprite Concept, 
+Voice Actor. (http://thejudge.tumblr.com/)

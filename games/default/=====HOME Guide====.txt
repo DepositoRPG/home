@@ -1,0 +1,380 @@
+This is a short guide to some of the stats and status effects within the game. For those who are having
+trouble understanding some of the concepts of the combat sysytem. 
+It will list all the heroes and their skills, what level they learn them, and what they do. 
+--------------------------------------------------------------------------------------------------------------------------
+===========================CHARACTER STATS EXPLAINED=======================
+--------------------------------------------------------------------------------------------------------------------------
+
+
+Stats:
+Attack - Basic offensive stat. Determines the strength of your basic attacks, increases the strength of physical skills 
+greatly, minor effect on some magical skills.
+
+Defense - Reduces damage from enemy attacks. More defense = less damage taken. More effective in reducing basic attacks
+than reducing skill damage. 
+ 
+Spirit - Secondary offensive stat. Determines the strength of magical based skills, minorly effecting some physical
+skills. 1/8th of your spirit is added to your Defense when taking damage from a skill. 
+
+Agility - How fast your action bar loads. The higher an opponents agility is to yours, the
+harder it will be to land basic attacks.
+
+--------------------------------------------------------------------------------------------------------------------------
+===========================STATUS EFFECTS EXPLAINED=======================
+--------------------------------------------------------------------------------------------------------------------------
+
+Status effects:
+Poisoned - Take (4% + 1) of max HP as damage per turn. 
+Condition never ends without being cleansed. 
+Does not end after battle.
+
+Blinded - 80% chance to miss on all basic attacks. 
+Condition ends after 8 turns.
+
+Muted - Unable to cast or use competences. 
+Condition ends after 8 turns.
+
+Furious - Attack enemies randomly with 25% chance to miss. Halfed spirit. 
+Condition ends after 10 turns.
+25% chance to end upon taking damage. 
+
+Madness - Attack allies randomly with 25% chance to miss. Halfed spirit. 
+Condition ends after 5 turns.
+25% chance to end upon taking damage. 
+
+Asleep - Unable to act. 
+Condition ends after 10 turns.
+75% chance to end upon taking damage. 
+
+Stunned - Unable to act. 
+Condition ends after 7 turns.
+
+Stopped - Unable to act. 
+75% chance to end each turn.
+
+Cursed - Unable to cast or use competences. Halfed defense. Halfed spirit. 
+Condition ends after 7 turns.
+
+Insanity - Attack enemies randomly. Double attack and agility. 
+Condition ends after 15 turns.
+Take 1% of max HP and CP loss per turn. 
+
+Migraine - Drains (1% + 3) of max CP per turn. 
+Condition ends after 10 turns.
+
+Surprise - Enemies get to attack first. 
+100% chance to end after enemies attack.
+
+Slowed - Half agility. 
+Condition ends after 9 turns.
+
+Fatigued - Half attack. 
+Condition ends after 9 turns.
+
+Headache - Half spirit.
+Condition ends after 9 turns.
+
+Broken - Half defense.
+Condition ends after 9 turns.
+
+Restore - Recovers (2% + 10) HP each turn. 
+Condition ends after 7 turns.
+
+Hasty - Doubles agility.
+Condition ends after 10 turns.
+
+Doomed  - Take 10% of max HP as damage per turn. 
+Condition ends after 10 turns. 
+
+[Alain's specific status effects]
+
+Reckless - Attack enemies randomly. Double attack. Dodge all basic attacks. +5 Attack
+Condition ends after 16 turns.
+10% chance to end upon taking damage.
+ 
+Valor - Unable to cast or use offensive competences. Double defense and spirit. +5 Defense
+Condition ends after 15 turns.
+
+Mindless - Drains (1% + 5) CP to recover (3% + 5) HP per turn. +5 Intelligence 
+Condition ends after 15 turns.
+
+Fearless - Double all stats. lose (4% + 10) HP per turn. +5 Agility
+Condition ends after 12 turn.
+
+--------------------------------------------------------------------------------------------------------------------------
+===========================SKILLS EXPLAINED===============================
+--------------------------------------------------------------------------------------------------------------------------
+Notes: 
+Physical attack = Strength influenced. 
+Special attack = Spirit influenced.
+Skills have varied influence overall.
+Some attacks have influences of both stats.
+Down below, skills will indicate if they have special cases of influence.
+A Mixed attack does both Physical and Special damage, and is influenced highly by both.
+A Neutral attack does neither Physical or Special damage. 
+--------------------------------------------------------------------------------------------------------------------------
+
+The Judge:
+
+LV 2: Waking Ravage
+Physical attack of minor impact.
+Base DMG: 35
+
+LV 4: Cunning Purr
+Restores some HP.
+Base HEAL: 100
+
+LV 5: Breaking Sclerosis
+Special attack of minor impact. Plastic Element.
+Base DMG: 70
+
+LV 6: Haunting Ravage
+Physical attack of low impact.
+Base DMG: 80
+
+LV 8: Unknown Sclerosis
+Special attack of low impact. Plastic Element.
+Base DMG: 100
+
+LV 10: Determined Purr
+Restores a lot of HP.
+Base HEAL: 300
+
+LV 13: Nightmarish Ravage
+Physical attack of mediocre impact.
+Base DMG: 125
+
+LV 15: Untypical Sclerosis
+Special attack of mediocre impact. Plastic Element
+Base DMG: 150
+
+LV 17: Luxurious Purr
+Restores a lot of HP to the entire party.
+Base HEAL: 250
+ 
+LV 19: Dimensional Ravage
+Physical attack of great impact.
+Base DMG: 250
+
+LV 21: Purulent Sclerosis
+Special attack of great impact. Plastic Element.
+Base DMG: 275
+
+LV 23: Fortunate Purr
+Reanimates and heals ally. 
+Base HEAL: 200
+
+LV 25: Chaotic Ravage
+Physical attack of grand impact.
+Base DMG: 425
+
+LV 28: Immediate Sclerosis
+Special attack of grand impact. Plastic Element.
+Base DMG: 450
+
+LV 35: Hopeful Purr / Special CP Cost: (45% Max CP)
+Fully reanimates an ally. 
+Base HEAL: 9999
+
+LV 40: Decupled Sclerosis
+Special attack of grand impact. Inflicts migrane. Plastic Element.
+Base DMG: 475
+
+-----------------------------------------------------------------------
+
+Alain:
+
+LV 2: Leeching Palpate
+Physical attack of absorbing damage. Meat element.
+Base DMG: 50
+
+LV 3: Fierce Honing.
+Increases all allies' attack lightly.
+Base HEAL/BUFF: 10
+
+LV 6: Sly Palpate
+Physical attack ignoring defense. Meat element.
+Base DMG: 50
+
+LV 8: Tenacity Honing
+Increases all allies' defense lightly.
+Base HEAL/BUFF: 10
+
+LV 10: Reckless Duress
+Assault enemies randomly with low accuracy.
+Base HEAL/BUFF: +5 Attack
+
+LV 12: Shredding Palpate
+Neutral attack that reduces claw resistance. Claw Element 
+Base DMG: 100
+
+LV 15: Cerebrum Honing
+Increases all allies' intelligence lightly.
+Base HEAL/BUFF: 10
+
+LV 18: Decoding Palpate 
+Physical attack that absorbs CP/HP. Meat Element.
+Base DMG: 30
+Special influenced. 
+ 
+LV 20: Valorous Duress
+Mutes offensive skills, doubles defense & spirit.
+Base HEAL/BUFF: +5 Defense
+
+LV 21: Zephyr Honing
+Increases all allies' agility for a short time.
+Base HEAL: 5
+
+LV 25: Encrypted Palpate
+Physical attack of varied impact. Meat Element.  / Special CP Cost: (20% Max CP)
+Base DMG: 400  / Does either HALF or DOUBLE damage. 
+Special influenced.
+
+LV 32: Mindless Duress
+Drains mana to restore HP over time.
+Base HEAL/BUFF: +5 Spirit
+
+LV 35: Competence Honing
+Increases all allies' competence points. 
+Base HEAL: 85
+
+LV 37: Fearless Duress
+Increase offensive stats but drains your HP slowly.
+Base HEAL/BUFF: +5 Agility / Doubles All Stats
+
+LV 40: Inverted Duress
+Special attack inflicting fury. Meat Element.
+Base DMG: 200
+
+-----------------------------------------------------------------------
+
+Valerie:
+
+LV 2: Short Aneurysm
+Special attack of minor impact. Metal Element.
+Base DMG: 30
+
+LV 4: Torn Aneurysm
+Special attack of low impact. Metal Element.
+Base DMG: 80
+
+LV 5: Acritical Break
+Lowers all enemies resistance to metal. Metal Element.
+Base DMG: 25
+
+LV 6: Awaited Grimace  / Special CP Cost: (5% Max CP)
+Special attack inflicting poison. Smoke element.
+Base DMG: 40
+
+LV 10: Requisite Grimace  / Special CP Cost: (5% Max CP)
+Special attack inflicting blind. Smoke element.
+Base DMG: 80
+
+LV 11: Alecithal Break 
+Lowers all enemies resistance to plastic. Plastic Element.
+Base DMG: 50
+
+LV 12: Diffused Aneurysm
+Special attack of mediocre impact. Metal Element.
+Base DMG: 150
+
+LV 15: Open Grimace / Special CP Cost: (5% Max CP)
+Special attack inflicting blind. Smoke element.
+Base DMG: 180
+
+LV 17: Asphyxial Break 
+Lowers all enemies resistance to smoke. Smoke element.
+Base DMG: 75
+
+LV 19: Ruputred Aneurysm
+Special attack of great impact. Metal Element.
+Base DMG: 250
+
+LV 21: Antiviral Break
+Lowers all enemies resistance to meat. Meat Element.
+Base DMG: 100
+
+LV 23: Impossible Grimace  / Special CP Cost: (10% Max CP)
+Special attack inflicting sleep. Smoke element.
+Base DMG: 180
+
+LV 25: Annual Break
+Lowers all enemies resistance to sugar. Sugar element. 
+Base DMG: 150
+
+LV 28: Slaying Aneurysm
+Special attack of grand impact. Metal Element
+Base DMG: 400
+
+LV 35: Immobile Grimace / Special CP Cost: (25% Max CP)
+Special attack inflicting stun. Smoke element.
+Base DMG: 240
+
+LV 40: Radial Break
+Lowers all enemies resistance to fangs. Fang Element.
+Base DMG: 110
+
+-----------------------------------------------------------------------
+
+Jozlyn:
+
+LV 5: Ecstatic Osculate
+Cures poison, sleep and curse. Restores some HP.
+Base HEAL: 100
+
+LV 9: Surealistic Tango
+Special attack hitting all foes. Sugar element.
+Base DMG: 50
+
+LV 10: Destructive Swing
+Mixed attack of minor impact. Inflicts fatigue. Smoke element. 
+Base DMG: 100
+
+LV 13: Abstract Tango
+Special attack hitting all foes. Sugar element.
+Base DMG: 125
+
+LV 15: Graceful Osculate
+Inflicts restoration. Restores some HP.
+Base HEAL: 200
+
+LV 18: Devoid Tango
+Special attack hitting all foes. Sugar element.
+Base DMG: 250
+ 
+LV 19: Alluring Osculate
+Cures blind, mute, and migrane. Restores some HP.
+Base HEAL: 300
+
+LV 20: Constructive Swing
+Mixed attack of low impact. Inflicts headache. Smoke element.
+Base DMG: 150
+
+LV 23: Apathetic Tango
+Special attack hitting all foes. Sugar element.
+Base DMG: 375
+
+LV 25: Calming Osculate
+Cures fury, madness and stun. Restores some HP.
+Base HEAL: 400
+
+LV 28: Suppressive Swing
+Mixed attack of great impact. Inflicts broken. Smoke element.
+Base  DMG: 230
+
+LV 30: Angelic Osculate / Special CP Cost: (20% Max CP)
+Reanimates and heals an ally.
+Base HEAL: 500
+
+LV 32: Retroactive Swing
+Mixed attack of grand impact. Inflicts slowed. Smoke element.
+Base DMG: 350
+
+LV 34: Hopeless Tango
+Special attack hitting all foes. Sugar element.
+Base DMG: 500
+
+LV 40: Entire Swing
+Mixed attack of grand impact. Inflicts stop. Smoke element.
+Base DMG: 450
+
