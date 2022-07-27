@@ -1,0 +1,7 @@
+The password is all letters. No numbers. 
+Lower case only.
+No spaces. 
+
+you must unlock the treasure chest first before attempting to view its contents. 
+do not attempt to extract only the image alone. 
+Extract the Treasure Chest itself to a new folder. 
